@@ -17,8 +17,8 @@ Follow [this](https://wiki.python.org/moin/BeginnersGuide/Download) tutorial to 
 ```
 
 
-## Installing Dependencies
-This script doesn't use any third party dependencies but if your python version is old, there might be dependency issues. Python 3.10 is recommended.
+## Installing Dependencies (optional)
+This script should work out of the box and doesn't use any third party dependencies. However, if your python version is old, there might be dependency issues. Python 3.10 is recommended.
 ```
   pip install -r requirements.txt
 ```
