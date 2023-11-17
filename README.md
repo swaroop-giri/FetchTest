@@ -11,6 +11,12 @@ Follow [this](https://wiki.python.org/moin/BeginnersGuide/Download) tutorial to 
   git clone https://github.com/swaroop-giri/FetchTest.git
 ```
 
+## Navigate to cloned repository
+```
+  cd <path_to_your_folder>
+```
+
+
 ## Installing Dependencies
 This script doesn't use any third party dependencies but if your python version is old, there might be dependency issues. Python 3.10 is recommended.
 ```
@@ -20,7 +26,6 @@ This script doesn't use any third party dependencies but if your python version 
 ## Running the Application
 Move to the cloned directory and run below command
 ```
-  cd <path_to_the_repo_folder>
   python endpointtest.py
 ```
 
